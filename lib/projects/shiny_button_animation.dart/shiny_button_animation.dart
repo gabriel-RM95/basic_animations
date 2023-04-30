@@ -69,10 +69,10 @@ class TheButtonState extends State<TheButton>
                 gradient: LinearGradient(
                   begin: Alignment.topLeft,
                   end: Alignment.bottomRight,
-                  colors: [
-                    Theme.of(context).buttonColor,
+                  colors: const [
+                    Colors.blue,
                     Colors.white,
-                    Theme.of(context).buttonColor
+                    Colors.blue,
                   ],
                   stops: [0.0, _controller.value, 1.0],
                 )),
