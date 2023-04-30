@@ -1,4 +1,4 @@
-# animations_practice
+# basic_animations
 
 Some basic animations.
 
@@ -8,4 +8,10 @@ Some basic animations.
 
 ![draggable_scrollable_sheet](https://user-images.githubusercontent.com/77643666/235360919-1989bc32-03c8-45f3-8c17-1e540dbeb24f.gif)
 
-![Android Emulator - Pixel_XL_API_31_5554 2023-04-30 11-15-53](https://user-images.githubusercontent.com/77643666/235361105-0f374134-8073-4ce8-9b7e-00ba87e4a2e8.gif)
+![tween_animation_builder](https://user-images.githubusercontent.com/77643666/235361380-8b241390-edb2-4291-b377-9dddc1dc617b.gif)
+
+![built_in_explicit_animation](https://user-images.githubusercontent.com/77643666/235361643-9d254eb7-70c5-4e21-b706-6a2b7c9da7c5.gif)
+
+![animated_widget](https://user-images.githubusercontent.com/77643666/235361836-cb36d076-ce65-4a97-973b-57c3e8ef6a87.gif)
+
+![physics_animation](https://user-images.githubusercontent.com/77643666/235362011-5cf965c3-6139-4f18-8af8-3a8e371c988c.gif)
